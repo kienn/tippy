@@ -1,2 +1,3 @@
 # tippy
-tip calculator
+
+![tippy gif](tippy-demo.gif)
